@@ -34,6 +34,17 @@ source venv/bin/activate  # Linux/Mac
 pip install -r requirements.txt
 ```
 
+### Running The Code 
+# 1. Testing
+```bash
+python test_imports.py
+```
+
+# 2.Run
+```bash
+python main.py
+```
+
 ## Usage 🚀
 
 ### Detection Only:
