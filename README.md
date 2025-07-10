@@ -6,7 +6,6 @@
 
 Real-time player tracking system that maintains consistent identities across broadcast video frames using visual re-identification.
 
-![Demo GIF](docs/demo.gif) *(Example output showing player tracking with consistent IDs)*
 
 ## Features ✨
 
